@@ -1,5 +1,11 @@
-### Hi there 👋
+### I'm Daniel Guecha 👨‍💻
 
+Software Engineer, Backend Development and platzi master student 🤓
+I have more than 3 years working in software development, more focused on laravel 😄👍
+
+I like challenges💪 and I love technology💚
+
+Welcome!!
 <!--
 **dagume/dagume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
