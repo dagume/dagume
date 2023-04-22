@@ -1,7 +1,7 @@
 ### I'm Daniel Guecha 👨‍💻
 
 Software Engineer, Backend Development and platzi master student 🤓
-I have more than 3 years working in software development, more focused on laravel 😄👍
+I have more than 4 years working in software development, more focused on NestJs 😄👍
 
 I like challenges💪 and I love technology💚
 
